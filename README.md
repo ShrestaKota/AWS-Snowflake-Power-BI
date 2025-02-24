@@ -9,6 +9,7 @@ This project demonstrates the integration of AWS S3, Snowflake, and Power BI for
 - Created an **Amazon S3 bucket** (`powerbi.project0`) to store CSV files.
 - Uploaded the dataset (CSV file) to the S3 bucket.
 - Configured IAM roles and permissions to allow Snowflake access to the S3 bucket.
+- AWS S3 Bucket URL s3://csv.test.filee/YOUTUBE+CHANNELS+DATASET.csv
 
 ### **2. Snowflake Configuration**
 
